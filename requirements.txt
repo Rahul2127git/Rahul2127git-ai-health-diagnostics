@@ -2,6 +2,10 @@ streamlit
 pandas
 pymupdf
 pillow
+<<<<<<< HEAD
 pytesseract
 plotly
 reportlab
+=======
+pytesseract
+>>>>>>> 8c585a7a20bbfe16183f63164142e4d33d2e97f4
